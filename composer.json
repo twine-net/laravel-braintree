@@ -1,5 +1,5 @@
 {
-    "name": "pulkitjalan/laravel-braintree",
+    "name": "twine-net/laravel-braintree",
     "description": "Laravel Service Provider for Braintree",
     "homepage": "https://github.com/pulkitjalan/laravel-braintree",
     "keywords": ["laravel", "braintree"],
